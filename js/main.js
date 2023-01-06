@@ -36,6 +36,8 @@ $(function () {
         arrows: false,
         dots: true,
         vertical: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
 
     })
 
